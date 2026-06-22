@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MorocoSMP.aternos.me:18203",
+    "port": 18203,
     "version": "",
     "try-creative": false
   },
